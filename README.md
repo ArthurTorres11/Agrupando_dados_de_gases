@@ -12,7 +12,7 @@ Este projeto utiliza a biblioteca `pandas` para agrupar e analisar dados relacio
 
 1. Clone o repositório:
     ```sh
-    git clone <URL_DO_REPOSITORIO>
+    git clone https://github.com/ArthurTorres11/Agrupando_dados_de_gases.git
     ```
 2. Navegue até o diretório do projeto:
     ```sh
